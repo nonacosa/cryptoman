@@ -1,5 +1,5 @@
 # cryptoman
-crypto price cli table view Real-time refresh
+crypto price cli view Real-time refresh table 
 
 crypto-man is a simple cryptocurrency terminal viewer tool that allows you to easily watch the crypto market trends in your terminal. It is also based on markdown format, so you can easily copy it to your notes or notion.
 
